@@ -25,6 +25,7 @@
     "expo": "~53.0.7",
     "expo-auth-session": "~6.0.3",
     "expo-camera": "~16.0.16",
+    "expo-dev-client": "^5.1.8",
     "expo-image-picker": "~16.0.6",
     "expo-linear-gradient": "~14.0.2",
     "expo-media-library": "~17.0.5",
